@@ -1,4 +1,4 @@
-# seanhellier.github.io
-github repo landing page
+# dev-portfolio
 
-Giphy key 00IrDsXH8cqG2XVQLoEsQi7EuM8cO3Ud
+<!-- API KEYS -->
+
